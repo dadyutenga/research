@@ -1,0 +1,6 @@
+bin/
+zig-out/
+zig-cache/
+.zig-cache*/
+__pycache__/
+*.pyc
